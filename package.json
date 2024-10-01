@@ -18,7 +18,7 @@
     },
     "dependencies": {
         "@fastify/caching": "^8.4.0",
-        "@fastify/http-proxy": "^9.5.0",
+        "@fastify/http-proxy": "^10.0.0",
         "@fastify/middie": "^8.3.1",
         "@mercuryworkshop/bare-as-module3": "^2.2.2",
         "@mercuryworkshop/bare-mux": "^2.0.4",
